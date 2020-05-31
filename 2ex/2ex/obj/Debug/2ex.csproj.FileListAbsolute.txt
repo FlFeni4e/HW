@@ -1,0 +1,9 @@
+D:\Учоба\ООП\2 laba\2ex\2ex\bin\Debug\2ex.exe.config
+D:\Учоба\ООП\2 laba\2ex\2ex\bin\Debug\2ex.exe
+D:\Учоба\ООП\2 laba\2ex\2ex\bin\Debug\2ex.pdb
+D:\Учоба\ООП\2 laba\2ex\2ex\obj\Debug\2ex.csprojAssemblyReference.cache
+D:\Учоба\ООП\2 laba\2ex\2ex\obj\Debug\_2ex.Form1.resources
+D:\Учоба\ООП\2 laba\2ex\2ex\obj\Debug\_2ex.Properties.Resources.resources
+D:\Учоба\ООП\2 laba\2ex\2ex\obj\Debug\2ex.csproj.GenerateResource.cache
+D:\Учоба\ООП\2 laba\2ex\2ex\obj\Debug\2ex.exe
+D:\Учоба\ООП\2 laba\2ex\2ex\obj\Debug\2ex.pdb
